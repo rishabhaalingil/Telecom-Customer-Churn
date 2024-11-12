@@ -28,10 +28,10 @@ The analysis explores customer churn patterns, focusing on various factors such 
    - The analysis reveals that senior citizens (aged 65+) have a churn rate of 41%, compared to a 26% churn rate among non-senior citizens. 
    - Implication: Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic.
 # Visualizations and Data Insights
-1)Bar charts and Line Charts:
+1. Bar charts and Line Charts:
    - The visual representation of churn by payment method clearly shows that customers using electronic checks churn almost three times as much as those using more traditional or secure methods like credit cards
    - Customer tenure vs. churn rate visualizations reveal a clear declining trend in churn as customers' tenure increases, underscoring the need for early-stage customer loyalty programs
-2) Percentage Distribution of Churn Across Factors:
+2. Percentage Distribution of Churn Across Factors:
    - Payment Methods: 45% churn for electronic check users, 15% for credit card users.
    - Contract Types: 42% churn for month-to-month contracts, 11% for yearly contracts, 3% for two-year contracts.
    - Tenure: 50% churn in the first year, dropping to 15% after three years
