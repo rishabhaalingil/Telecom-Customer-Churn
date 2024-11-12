@@ -10,9 +10,9 @@ The analysis explores customer churn patterns, focusing on various factors such 
 6. Insights generation:Insights were generated and shared with the telecom company and recommendations were provided to take actions based on these analysis.
 # Key Insights and Findings
 1. Contract Type and Churn:
-- Customers on month-to-month contracts exhibit the highest churn rate,with 42% of such customers likely to churn.
-- In contrast, customers on one-year and two-year contracts have churn rates of 11% and 3%,respectively. 
-- Implication: Longer contract periods serve as a strong retention tool, as customers with extended commitments are far less likely to leave.
+                          - Customers on month-to-month contracts exhibit the highest churn rate,with 42% of such customers likely to churn.
+                          - In contrast, customers on one-year and two-year contracts have churn rates of 11% and 3%,respectively. 
+                          - Implication: Longer contract periods serve as a strong retention tool, as customers with extended commitments are far less likely to leave.
 2. Payment Methods and Churn:
 - Customers paying via electronic checks show the highest churn rate at 45%, while those using credit cards, bank transfers, or mailed checks have significantly lower churn rates, averaging around 15-18%.
 - Implication: The convenience, security, and trust issues related to electronic payments might be contributing factors. Encouraging customers to switch to more stable payment methods could reduce churn.
